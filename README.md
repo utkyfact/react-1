@@ -15,7 +15,7 @@ This project demonstrates a simple React application featuring increment and dec
 1-Clone the Repository:
 ```bash
 git clone https://github.com/utkyfact/react-1
-cd <react-1>
+cd react-1
 ```
 
 2-Install Dependencies:
