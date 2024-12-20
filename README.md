@@ -13,20 +13,21 @@ This project demonstrates a simple React application featuring increment and dec
 # Setup Instructions
 
 1-Clone the Repository:
-
-git clone <[repository-url](https://github.com/utkyfact/react-1)>
+```bash
+git clone https://github.com/utkyfact/react-1
 cd <react-1>
+```
 
 2-Install Dependencies:
 Ensure you have Node.js installed. Run the following command to install the required dependencies:
-
+```bash
 npm install
-
+```
 3-Start the Application:
 Start the development server with:
-
+```bash
 npm start
-
+```
 4-Open in Browser:
 Navigate to http://localhost:... in your web browser to view the application.
 
